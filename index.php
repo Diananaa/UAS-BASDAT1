@@ -70,7 +70,7 @@
             </thead>
             <tbody>
                 <tr>
-                    <th><img src="../DBC118076/Sampul/github.png" width="10%"> GITHUB : Diananaa</th>
+                <th><a href="https://github.com/Diananaa/UAS-BASDAT1"><img src="../DBC118076/Sampul/github.png" width="10%"></a> GITHUB : Diananaa</th>
                 </tr>
                 <tr>
                     <th><a href="https://gitlab.com/Diananaa/uas_basdat1"><img src="../DBC118076/Sampul/gitlab.png" width="10%"></a> GITLAB : Diananaa</th>
